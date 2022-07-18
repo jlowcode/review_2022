@@ -11,7 +11,7 @@
 
 ## Plugin
 
-O plugin Review de Formulario. Como Usar e adicioná-lo ao formulario.
+O plugin Review de Formulário. Como Usar e adicioná-lo ao formulário.
 
 ### Acesse ao formulário que deseja adicioná-lo e clique na aba "Plugin"
 <p align="center">
@@ -23,7 +23,7 @@ O plugin Review de Formulario. Como Usar e adicioná-lo ao formulario.
     <img src="img/02.jpeg">
 </p>
 
-### Essas as configurações do Plugin
+### Configurações do Plugin
 <p align="center">
     <img src="img/03.jpeg">
 </p>
