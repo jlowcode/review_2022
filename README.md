@@ -3,7 +3,7 @@
 ![Joomla Badge](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white) ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
-## Conteudo
+## Conteúdo
 
 
 - [Plugin](#plugin)
